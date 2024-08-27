@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SteveCBridport
+- 👀 I’m interested in most things
+- 🌱 I’m currently learning C++
